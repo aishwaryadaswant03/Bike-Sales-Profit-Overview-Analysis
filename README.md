@@ -3,30 +3,30 @@ Bike Sales Dashboard (2013–2014) analyzes sales, profit, discounts, and costs 
 
 **Objectives**
 
-Evaluate bike sales and profit performance
-Identify impact of discounts and costs on margins
-Support data-driven pricing and sales decisions
+Evaluate bike sales and profit performance,
+Identify impact of discounts and costs on margins,
+Support data-driven pricing and sales decisions.
 
 **Tools & Technologies**
 
-Power BI
-DAX
-Excel for importing data
+Power BI,
+DAX,
+Excel for importing data.
 
 **Key KPIs & Metrics**
 
 Sales, Gross Sales, Net Sales
-Profit & COGS
-Units Sold
-Discount Amount
-Average Sale Price (ASP)
+Profit & COGS,
+Units Sold,
+Discount Amount,
+Average Sale Price (ASP).
 
 **Key Insights**
 
-Sales and profit increased from 2013 to 2014
-High discounts reduced margins in some segments
-Paseo was the top-performing product
-Profitability varied across regions and segments
+Sales and profit increased from 2013 to 2014,
+High discounts reduced margins in some segments,
+Paseo was the top-performing product,
+Profitability varied across regions and segments.
 
 **Business Recommendations**
 
